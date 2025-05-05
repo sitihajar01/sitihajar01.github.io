@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("Kan sudah dibilang jangan di klik!");
-}
+    alert( "Kan sudah dibilang jangan di klik!" );
+} 
