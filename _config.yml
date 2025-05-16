@@ -1,4 +1,16 @@
-url: "https://sitihajar01.github.io"
+title: Siti Hajar
+email: siti_hajar037@pnl.ac.id
+description: > # this means to ignore newlines until "baseurl:"
+  A personal blog by Siti Hajar, a lecturer at Politeknik Negeri Lhokseumawe.
+  This blog is built using Jekyll and hosted on GitHub Pages.
+  The content is primarily in Indonesian, but some posts may be in English.
+url: " https://sitihajar01.github.io"
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+theme: null
 
 plugins:
     - jekyll-feed
