@@ -1,16 +1,21 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
+  <meta charset="UTF-8">
+  <title>Blog</title>
 
-    <!-- javascript -->
-    <script src="/assets/js/scripts.js"></script>
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/assets/css/styles.css">
 
-    <!--plugins-->
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />  
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/images/favicon.ico">
+
+  <!-- JavaScript -->
+  <script src="/assets/js/scripts.js"></script>
+
+  <!-- Plugins -->
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Blog</title>
 <meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="Blog" />
@@ -24,26 +29,113 @@
 {"@context":"https://schema.org","@type":"WebPage","headline":"Blog","url":"http://localhost:4000/blog.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-
 </head>
 <body>
+  <div class="container">
+    <header>
+      <img src="/assets/images/profil.jpg" alt="Profile Picture" class="profile-picture">
+      <h1></h1>
+      <p></p>
+    </header>
+
     <nav>
+       <ul>
     
+    <li>
         <a href="/" >  
             Home
         </a>
+    </li>
     
+    <li>
         <a href="/friends.html" >  
             Friends
         </a>
+    </li>
     
-        <a href="/blog.html"  class="current" >  
+    <li>
+        <a href="/blog.html"  class="active" >  
             Blog
         </a>
+    </li>
     
-</nav>
-    <h1>Blog</h1>
+ </ul>
 
+    </nav>
+
+    <main>
+      <html>
+    <head>
+    <style>
+            .current {
+                color: green;
+            } 
+            
+            @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+            
+            body {
+                font-family: 'Poppins', sans-serif;
+                background-color: #f0f2f5;
+                margin: 0;
+                padding: 0;
+            }
+            
+            .navbar a {
+                color: #6C5CE7;
+                text-decoration: none;
+                margin-right: 15px;
+                font-weight: 500;
+            }
+            
+            .navbar a:hover {
+                color: #E17055;
+            }
+            
+            .blog-list {
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+                padding: 20px;
+            }
+            
+            .post-card {
+                background-color: #DFF9FB;
+                border-radius: 15px;
+                box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+                padding: 20px;
+                transition: transform 0.3s ease, box-shadow 0.3s ease;
+            }
+            
+            .post-card:hover {
+                transform: translateY(-8px);
+                box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+            }
+            
+            .post-title a {
+                font-size: 1.6em;
+                font-weight: 600;
+                color: #00B894;
+                text-decoration: none;
+            }
+            
+            .post-title a:hover {
+                color: #0e0e0e;
+            }
+            
+            .post-date {
+                font-size: 0.95em;
+                color: #0984E3;
+                margin-bottom: 10px;
+            }
+            
+            .post-excerpt {
+                font-size: 1em;
+                color: #2D3436;
+            }
+    </style>
+    </head>
+<body>
+    <h1>Blog</h1>
 <div class="blog-list">
     
     <div class="post-card">
@@ -166,5 +258,13 @@
     </div>
     
 </div>
+</body>
+</html>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 . All rights reserved.</p>
+    </footer>
+  </div>
 </body>
 </html>
