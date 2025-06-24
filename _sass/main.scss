@@ -92,31 +92,19 @@ nav {
 }
 
 .friend-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 15px;
-    padding: 20px;
-    background-color: #113c38; /* Warna hijau tua seperti latar foto */
-    border-radius: 10px;
-  }
-  
-  .friend-card {
-    background-color: #1e4d48; /* Hijau tua lebih terang */
-    padding: 15px;
-    border-radius: 10px;
-    text-align: center;
-    transition: transform 0.2s ease, background-color 0.3s ease;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  }
-  
-  .friend-card a {
-    color: #ffffff;
-    text-decoration: none;
-    font-weight: bold;
-    font-family: 'Segoe UI', sans-serif;
-  }
-  
-  .friend-card:hover {
-    transform: scale(1.03);
-    background-color: #2a6f67; /* Warna hover sedikit lebih terang */
-  }
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.friend-card {
+  border: 1px solid #ccc;
+  padding: 10px 15px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  font-size: 14px;
+  min-width: 140px;
+  text-align: center;
+}

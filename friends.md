@@ -1,38 +1,35 @@
 ---
 layout: default
 title: friend
----
+--- 
 
-# Friend Page  
-Berikut Teman-teman saya di kelas:
-
-<div class="friend-container">
-  <div class="friend-card"><a href="https://abadan1912.github.io/">Abadan Syakira</a></div>
-  <div class="friend-card"><a href="https://desynabilasari.github.io/">Desi Nabila Sari</a></div>
-  <div class="friend-card"><a href="https://deswitanazwa.github.io/">Deswita Nazwa Ariani</a></div>
-  <div class="friend-card"><a href="https://dwiidarahmadanisitumorang.github.io/">Dwi Ida Rahmadani Situmorang</a></div>
-  <div class="friend-card"><a href="https://fitriramadhani20.github.io/">Fitri Ramdhani</a></div>
-  <div class="friend-card"><a href="https://isanbly06.github.io/">Ikhsan Salsabily</a></div>
-  <div class="friend-card"><a href="https://jihanmaulidia09.github.io/">Jihan Maulida</a></div>
-  <div class="friend-card"><a href="https://alfisyahrin-26.github.io/">Muhammad Alfisyahrin Muzhaffar</a></div>
-  <div class="friend-card"><a href="https://alifarrayyan29.github.io/">Muhammad Alif Arrayyan</a></div>
-  <div class="friend-card"><a href="https://mhmmd-aziz.github.io/">Muhammad Aziz</a></div>
-  <div class="friend-card"><a href="https://muhammadfauzan61.github.io/">Muhammad Fauzan</a></div>
-  <div class="friend-card"><a href="https://mfikrisodri.github.io/">Muhammad Fikri Sodri</a></div>
-  <div class="friend-card"><a href="https://hawari-95.github.io/">Muhammad Hawari</a></div>
-  <div class="friend-card"><a href="https://muliadi50.github.io/">Muliadi Tumangger</a></div>
-  <div class="friend-card"><a href="https://nailanzakia.github.io/">Nailan Zakia</a></div>
-  <div class="friend-card"><a href="https://dayat-yat.github.io/dayatyat.github.io/">Rahmat Hidayat</a></div>
-  <div class="friend-card"><a href="https://ridhoryanghifari.github.io/">Ridho Ryan Ghifari</a></div>
-  <div class="friend-card"><a href="https://riskialfattah.github.io/">Rizki Al Fatah</a></div>
-  <div class="friend-card"><a href="https://salwaiska027.github.io/">Salwa</a></div>
-  <div class="friend-card"><a href="https://sitiazzahraaa.github.io/">Siti Azzahra</a></div>
-  <div class="friend-card"><a href="https://sitihajar01.github.io/">Siti Hajar</a></div>
-  <div class="friend-card"><a href="https://mirzafeberanyy.github.io/">Mirza Feberani</a></div>
-  <div class="friend-card"><a href="https://athayaaufa18.github.io/">Syakila Athaya Aufa</a></div>
-  <div class="friend-card"><a href="https://taniaanandasari.github.io/">Tania Ananda Sari</a></div>
-  <div class="friend-card"><a href="https://akbar2224.github.io/akbar2224/">Tm Dzaky Maulana</a></div>
-  <div class="friend-card"><a href="https://wildanunhasanah.github.io/">Wildanun Hasanah</a></div>
-  <div class="friend-card"><a href="https://yumna1711.github.io/">Yumna</a></div>
-  <div class="friend-card"><a href="https://zamharira09.github.io/">Zamharira</a></div>
-</div>
+# Friend page
+Berikut Teman-teman saya di kelas: 
+1. [Abadan Syakira](https://abadan1912.github.io/)
+2. [Desi Nabila Sari](https://desynabilasari.github.io/)
+3. [Deswita Nazwa Ariani](https://deswitanazwa.github.io/)
+4. [Dwi Ida Rahmadani Situmorang](https://dwiidarahmadanisitumorang.github.io/)
+5. [Fitri Ramdhani](https://fitriramadhani20.github.io/)
+6. [Ikhsan Salsabily](https://isanbly06.github.io/)
+7. [Jihan Maulida](https://jihanmaulidia09.github.io/)
+8. [Muhammad Alfisyahrin Muzhaffar](https://alfisyahrin-26.github.io/)
+9. [Muhammad Alif Arrayyan](https://alifarrayyan29.github.io/)
+10. [Muhammad Aziz](https://mhmmd-aziz.github.io/)
+11. [Muhammad Fauzan](https://muhammadfauzan61.github.io/)
+12. [Muhammad Fikri Sodri](https://mfikrisodri.github.io/)
+13. [Muhammad Hawari](https://hawari-95.github.io/) 
+14. [Muliadi Tumangger](https://muliadi50.github.io/)
+15. [Nailan Zakia](https://nailanzakia.github.io/)
+16. [Rahmat Hidayat](https://dayat-yat.github.io/dayatyat.github.io/)
+17. [Ridho Ryan Ghifari](https://ridhoryanghifari.github.io/)
+18. [Rizki Al Fatah](https://riskialfattah.github.io/)
+19. [Salwa](https://salwaiska027.github.io/)
+20. [Siti Azzahra](https://sitiazzahraaa.github.io/)
+21. [Siti Hajar](https://sitihajar01.github.io/)
+22. [Mirza Feberani](https://mirzafeberanyy.github.io/)
+23. [Syakila Athaya Aufa](https://athayaaufa18.github.io/)
+24. [Tania Ananda Sari](https://taniaanandasari.github.io/)
+25. [Tm Dzaky Maulana](https://akbar2224.github.io/akbar2224/)
+26. [Wildanun Hasanah](https://wildanunhasanah.github.io/)
+27. [Yumna](https://https://yumna1711.github.io/)
+28. [Zamharira](https://zamharira09.github.io/)

@@ -1,9 +1,8 @@
 title: Siti Hajar
 email: siti_hajar037@pnl.ac.id
 description: > # this means to ignore newlines until "baseurl:"
-  A personal blog by Siti Hajar, a lecturer at Politeknik Negeri Lhokseumawe.
-  This blog is built using Jekyll and hosted on GitHub Pages.
-  The content is primarily in Indonesian, but some posts may be in English.
+  My name is Siti Hajar, and I am a second-semester student. I was born in Lawang pirak on 01 juni 2006. I am currently studying at the State Polytechnic of Lhokseumawe, majoring in Informatics Engineering.
+
 url: " https://sitihajar01.github.io"
 
 sass:
@@ -15,4 +14,4 @@ theme: null
 plugins:
     - jekyll-feed
     - jekyll-sitemap
-    - jekyll-seo-tag
+    - jekyll-seo-tag 
